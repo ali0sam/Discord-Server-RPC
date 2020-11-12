@@ -3,6 +3,7 @@
 ## Required
 
 | node js
+
 |npm install discord-rpc
 
 # This RRP (discord rich presence) made to show your servers online member on your status
