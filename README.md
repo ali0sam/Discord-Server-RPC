@@ -1,5 +1,10 @@
 # Discord-Server-RPC
 
+## Required
+
+| node js
+|npm install discord-rpc
+
 # This RRP (discord rich presence) made to show your servers online member on your status
 
 1-**Make sure the server widget is turned on**
@@ -9,6 +14,9 @@
 3-open ```run.bat``` file
 
 _____________________________________________________
+## پیش نیاز ها
+| node js
+|npm install discord-rpc
 
  # این یک کلاینت برای نشان دادن داده های یک سرور روی استاتوس شما است
 1-widget سرور مورد نظر باید روشن باشد
