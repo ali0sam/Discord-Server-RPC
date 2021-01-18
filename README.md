@@ -34,4 +34,4 @@ _____________________________________________________
 
 
 
-Discord ID for Support: ali_s#6950
+Discord ID for Support: ali_s#0107
